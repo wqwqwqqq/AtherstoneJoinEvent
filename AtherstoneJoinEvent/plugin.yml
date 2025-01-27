@@ -1,0 +1,9 @@
+name: AtherstoneJoinEvent
+version: 1.0.0
+main: AtherstoneJoinEvent\Main
+api: 5.0.0
+author: SmokyFox11
+description: Custom join sound and effects
+load: POSTWORLD
+commands: []
+permissions: []

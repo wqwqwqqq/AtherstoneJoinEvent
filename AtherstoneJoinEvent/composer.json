@@ -1,0 +1,9 @@
+{
+    "name": "atherstone/join-event",
+    "description": "Custom join sound and effects",
+    "autoload": {
+        "psr-4": {
+            "AtherstoneJoinEvent\\": "src/AtherstoneJoinEvent/"
+        }
+    }
+}
